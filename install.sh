@@ -12,5 +12,5 @@ sudo apt install python3 python3-pip -y
 echo "Installing required Python packages..."
 pip3 install --upgrade pip
 pip3 install telebot flask aiogram python-telegram-bot
-gcc VALOCITY.c -o VALOCITY -lpthread
+gcc lancer.c -o lancer -lpthread
 echo "Installation completed!"
