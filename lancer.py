@@ -3,7 +3,7 @@ import time
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '8186789704:AAGlnbaIRus9T1azszOo74UOCe8TSTunX78'
+TELEGRAM_BOT_TOKEN = '8104229565:AAHx6rIxPi-zsorSqnTyba0JCDko1FL4btE'
 ADMIN_USER_ID = 6228283651
 USERS_FILE = 'users.txt'
 attack_tasks = {}
